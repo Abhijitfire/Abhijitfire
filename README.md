@@ -1,67 +1,49 @@
-# Hi there, I'm Abhijit Sarkar 👋
+# Hello, my name is Abhijit Sarkar 
 
 ## About Me
 
-I'm a software developer working on digital banking solutions. Currently building secure and scalable fintech applications that make banking accessible to everyone.
+As a software developer, I work on solutions for online banking. currently developing scalable and safe fintech applications that enable universal access to banking.
 
-## What I'm Working On
+## My Current Projects
 
-🏦 **UNO DIGITAL BANK** - A full-featured digital banking platform
-- Integrated HyperVerge for AI-powered KYC verification
-- Implemented SSL pinning and SHA encryption for security
-- Built QR code payment system
-- Mobile number verification with OTP
-- Licensed by Bangko Sentral ng Pilipinas (BSP)
+**UNO DIGITAL BANK** A feature-rich online banking system with HyperVerge integrated for AI-driven KYC verification
+SHA encryption and SSL pinning were put into place for security.
+Built-in QR code payment system; OTP-based mobile number verification; Bangko Sentral ng Pilipinas (BSP) license
 
-[Download on Play Store](https://play.google.com/store/apps/details?id=com.iexceed.unoConsumerBanking&hl=en)
+[Get it from the Play Store](https://play.google.com/store/apps/details?id=com.iexceed.unoConsumerBanking&hl=en)
 
-## Tech Stack
+## Technology Stack
 
-**Mobile Development**
-- Android (Native/Hybrid)
-- RESTful APIs
-- Payment Gateway Integration
+The development of mobile
+Payment gateway integration, RESTful APIs, and Android (Native/Hybrid)
 
 **Security**
-- SSL/TLS Pinning
-- SHA-256/SHA-512 Encryption
-- Multi-factor Authentication
-- Biometric Authentication
+SHA-256/SHA-512 encryption, SSL/TLS pinning, multi-factor authentication, and biometric authentication
 
-**Integrations**
-- HyperVerge SDK (KYC/Identity Verification)
-- Mastercard API
-- QR Code Scanner
-- SMS Gateway
-- Banking APIs
+Integrations
+HyperVerge SDK (Identity Verification/KYC)
+SMS gateway, QR code scanner, and Mastercard API
+APIs for banking
 
-## Skills
+## Competencies
 
-- Mobile App Development
-- Fintech Solutions
-- API Integration
-- Security Implementation
-- Banking Compliance
-- Payment Systems
+Development of Mobile Apps; Fintech Solutions; API Integration; Security Implementation; and Banking Compliance
+Systems of Payment
 
-## Currently Learning
 
-- Advanced security protocols
-- Blockchain technology
-- Cloud infrastructure
-- AI/ML integration in fintech
+## Learning Right Now
 
-## Get in Touch
+Sophisticated security measures
+Blockchain technology; cloud infrastructure; and fintech's use of AI and ML
 
-- 💼 Working on digital banking solutions
-- 🔐 Passionate about security and encryption
-- 🚀 Always learning new technologies
-- 📫 Feel free to reach out for collaborations!
+## Reach Out
 
-## GitHub Stats
+Developing digital banking solutions - 💼 Enthusiastic about encryption and security - 🚀 I'm always learning new technologies! 📫 Please get in touch if you want to work together!
 
-![Abhijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhijitfire&show_icons=true&theme=dark)
+## Stats on GitHub
 
----
+Oh![GitHub stats for Abhijit](https://github-readme-stats.vercel.app/api? username=Abhijitfire&show_icons=true&theme=dark)
 
-**"Building secure financial solutions, one line of code at a time"**
+The ---
+
+One line of code at a time, "Building secure financial solutions"
